@@ -6,6 +6,7 @@
     --blue : #4464AD;
     --blueCard : #DDF8FE;
     --purple: #7D00A3;
+    --green: #7CAE7A;
     --boxShadow : 0px 19px 60px rgb(0 0 0 / 8%);
     --orangeCard: rgba(252, 166, 31, 0.45);
     --smboxShadow: -79px 51px 60px rgba(0, 0, 0, 0.08);
@@ -18,7 +19,7 @@
   flex-direction: column;
   font-family: Arial, Helvetica, sans-serif;
   background-color: #f0f0f0;
-
+  text-align: center;
 }
 
 body {
