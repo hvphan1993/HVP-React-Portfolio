@@ -1,6 +1,6 @@
 import React from "react";
 import "../styles/Home.css";
-import Profile1 from "../img/Profile1.JPG";
+import Profile1 from "../assets/Profile1.JPG";
 import { FaLinkedin, FaEnvelope, FaGithub } from "react-icons/fa";
 
 function Home() {

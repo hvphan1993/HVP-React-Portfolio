@@ -8,7 +8,9 @@ function Footer() {
     return (
         < div className="footer">
             <div className="socialMedia"> 
-                <FaLinkedin /> <FaEnvelope /> <FaGithub /> 
+                <a href="https://www.linkedin.com/in/hien-phan-profile/" target="_"> <FaLinkedin /></a>
+                 <a href="mailto:hvphan1993@gmail.com" target="_"> <FaEnvelope /> </a>  
+                 <a href="https://github.com/hvphan1993" target="_"> <FaGithub /> </a> 
             </div>
             <p> &copy; 2022 Hien Phan</p>
             </div>

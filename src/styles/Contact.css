@@ -1,0 +1,13 @@
+.formBox {
+    margin: 0px 5px 15px 5px; 
+    font-size: 17px;
+}
+
+.message label {
+    margin-left: -20px;
+}
+
+.messageBox {
+    margin: 0px 5px 15px 5px;
+    
+}
