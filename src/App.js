@@ -8,7 +8,7 @@ import Home from "./pages/Home";
 import Experience from './pages/Experience';
 import Projects from './pages/Projects';
 // import About from './pages/About';
-import Contact from './pages/Contact';
+// import Contact from './pages/Contact';
 import Email from './pages/Email';
 import ProjectDisplay from './pages/ProjectDisplay';
 
