@@ -27,7 +27,7 @@ function Nav() {
                 <Link to="/HVP-React-Portfolio">Home</Link>
                 <Link to="/projects">Projects</Link>
                 <Link to="/experience">Experience</Link>
-                <Link to="/email">Email Me</Link>
+                <Link to="/contactme">Contact Me</Link>
                 {/* <Link to="/contact">Contact Me</Link> */}
             </div>
         </div>
