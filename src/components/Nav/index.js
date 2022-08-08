@@ -24,7 +24,7 @@ function Nav() {
                 </button>
             </div>
             <div className="links">
-                <Link to="/">Home</Link>
+                <Link to="/HVP-React-Portfolio">Home</Link>
                 <Link to="/projects">Projects</Link>
                 <Link to="/experience">Experience</Link>
                 <Link to="/email">Email Me</Link>
