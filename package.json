@@ -1,7 +1,7 @@
 {
   "name": "Hien Personal Portfolio",
   "version": "0.1.0",
-  "homepage": "http://hvphan1993.github.io/Hien React Portfolio",
+  "homepage": "http://hvphan1993.github.io/HVP-React-Portfolio",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.2",
