@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.3b752fa7.css",
-    "main.js": "/static/js/main.b8a5636f.js",
-    "static/media/whatsmyjam.png": "/static/media/whatsmyjam.512b61037831feffa32b.png",
-    "static/media/Profile1.JPG": "/static/media/Profile1.7e8a0ad92b23ee8e0f70.JPG",
-    "static/media/personalPortfolio.png": "/static/media/personalPortfolio.5ee3791369327514d1d2.png",
-    "static/media/crystalJumper.png": "/static/media/crystalJumper.d5c001ec552da7973438.png",
-    "static/media/wethaWizard.png": "/static/media/wethaWizard.d15e2448707a328a92c7.png",
-    "static/media/budget-tracker.png": "/static/media/budget-tracker.f792eb52df767c740d1b.png",
-    "static/media/note-taker.png": "/static/media/note-taker.3ef2e3f2ebb68612f26e.png",
-    "index.html": "/index.html",
-    "main.3b752fa7.css.map": "/static/css/main.3b752fa7.css.map",
-    "main.b8a5636f.js.map": "/static/js/main.b8a5636f.js.map"
+    "main.css": "/HVP-React-Portfolio/static/css/main.3b752fa7.css",
+    "main.js": "/HVP-React-Portfolio/static/js/main.1343f12a.js",
+    "static/media/whatsmyjam.png": "/HVP-React-Portfolio/static/media/whatsmyjam.512b61037831feffa32b.png",
+    "static/media/Profile1.JPG": "/HVP-React-Portfolio/static/media/Profile1.7e8a0ad92b23ee8e0f70.JPG",
+    "static/media/personalPortfolio.png": "/HVP-React-Portfolio/static/media/personalPortfolio.5ee3791369327514d1d2.png",
+    "static/media/crystalJumper.png": "/HVP-React-Portfolio/static/media/crystalJumper.d5c001ec552da7973438.png",
+    "static/media/wethaWizard.png": "/HVP-React-Portfolio/static/media/wethaWizard.d15e2448707a328a92c7.png",
+    "static/media/budget-tracker.png": "/HVP-React-Portfolio/static/media/budget-tracker.f792eb52df767c740d1b.png",
+    "static/media/note-taker.png": "/HVP-React-Portfolio/static/media/note-taker.3ef2e3f2ebb68612f26e.png",
+    "index.html": "/HVP-React-Portfolio/index.html",
+    "main.3b752fa7.css.map": "/HVP-React-Portfolio/static/css/main.3b752fa7.css.map",
+    "main.1343f12a.js.map": "/HVP-React-Portfolio/static/js/main.1343f12a.js.map"
   },
   "entrypoints": [
     "static/css/main.3b752fa7.css",
-    "static/js/main.b8a5636f.js"
+    "static/js/main.1343f12a.js"
   ]
 }
