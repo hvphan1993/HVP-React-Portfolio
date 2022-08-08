@@ -12,7 +12,7 @@ function Home() {
         <img
           src={Profile1}
           className="pic my-2"
-          style={{ width: "15%" }}
+          style={{ width: "18%" }}
           alt="profile1"
         />
         <div className="prompt">

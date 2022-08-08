@@ -7,7 +7,7 @@
   
   .about {
     width: 100%;
-    height: calc(100vh - 100px);
+    height: calc(110vh - 110px);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -19,17 +19,17 @@
   
   .about h2 {
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 80px;
+    font-size: 70px;
     color: #e9d35b;
     height: 50px;
   }
   
   .about .prompt {
     width: 40%;
-    font-size: 30px;
+    font-size: 25px;
   }
   .prompt svg {
-    font-size: 60px;
+    font-size: 50px;
     margin: 5px;
     color: white;
   }
@@ -58,7 +58,9 @@
   }
 
   .pic {
-    border-radius: 12%;
+    border-radius: 62%;
+    width: 60%;
+    height: auto;
   }
   
   @media only screen and (max-width: 775px) {
@@ -67,9 +69,9 @@
         margin: 0px 5px 100px 5px;
       }
     
-    .about img {
-        max-width: 100%;
-  height: auto;
+    .pic {
+        height: calc(25vh - 90px);
+        
     }
 
     .about .prompt {
@@ -80,9 +82,8 @@
   }
 
   @media only screen and (max-width: 600px) {
-    .about img {
-        max-width: 100%;
-  height: auto;
+    .pic {
+        height: calc(13vh - 40px);
     }
     
     .about h2 {
