@@ -18,7 +18,7 @@ SO THAT I can assess whether they're a good candidate for an open position
 
 ## Screenshot
 
-![profile screenshot](../HVP-React-Portfolio/src/assets/reactPortfolio.png)
+![profile screenshot](./src/assets/reactPortfolio.png)
 
 ## Links
 
