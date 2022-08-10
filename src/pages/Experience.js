@@ -5,11 +5,17 @@ import {
 } from "react-vertical-timeline-component";
 import "react-vertical-timeline-component/style.min.css";
 import { FaSchool, FaBriefcase, FaUserGraduate, FaEllipsisH } from "react-icons/fa";
-// import "../styles/Experience"
+import "../styles/Experience.css";
+import HienPhanResume from "../assets/HienPhanResume.pdf";
 
 function Experience() {
   return (
     <div className="experience">
+        <button className="button">
+    <a className="button" href={HienPhanResume} download = "HPResumeOfficial.pdf">
+      <b>Download Resume</b>
+    </a>
+</button>
       <VerticalTimeline lineColor="#4464AD">
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
