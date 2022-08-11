@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/HVP-React-Portfolio/static/css/main.ce588516.css",
-    "main.js": "/HVP-React-Portfolio/static/js/main.bcd02666.js",
+    "main.css": "/HVP-React-Portfolio/static/css/main.ebc62733.css",
+    "main.js": "/HVP-React-Portfolio/static/js/main.f35cf0ec.js",
     "static/media/whatsmyjam.png": "/HVP-React-Portfolio/static/media/whatsmyjam.512b61037831feffa32b.png",
     "static/media/Profile1.JPG": "/HVP-React-Portfolio/static/media/Profile1.7e8a0ad92b23ee8e0f70.JPG",
     "static/media/personalPortfolio.png": "/HVP-React-Portfolio/static/media/personalPortfolio.5ee3791369327514d1d2.png",
@@ -11,11 +11,11 @@
     "static/media/budget-tracker.png": "/HVP-React-Portfolio/static/media/budget-tracker.f792eb52df767c740d1b.png",
     "static/media/note-taker.png": "/HVP-React-Portfolio/static/media/note-taker.3ef2e3f2ebb68612f26e.png",
     "index.html": "/HVP-React-Portfolio/index.html",
-    "main.ce588516.css.map": "/HVP-React-Portfolio/static/css/main.ce588516.css.map",
-    "main.bcd02666.js.map": "/HVP-React-Portfolio/static/js/main.bcd02666.js.map"
+    "main.ebc62733.css.map": "/HVP-React-Portfolio/static/css/main.ebc62733.css.map",
+    "main.f35cf0ec.js.map": "/HVP-React-Portfolio/static/js/main.f35cf0ec.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce588516.css",
-    "static/js/main.bcd02666.js"
+    "static/css/main.ebc62733.css",
+    "static/js/main.f35cf0ec.js"
   ]
 }
