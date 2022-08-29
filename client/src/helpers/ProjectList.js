@@ -4,6 +4,7 @@ import whatsMyJam from "../assets/whatsmyjam.png";
 import noteTaker from "../assets/note-taker.png";
 import wethaWizard from "../assets/wethaWizard.png";
 import personalPortfolio from "../assets/personalPortfolio.png";
+import kissmet from "../assets/Kissmet.png";
 
 export const ProjectList = [
     {
@@ -41,6 +42,12 @@ export const ProjectList = [
         image: personalPortfolio,
         skills: "HTML, CSS",
         link: "https://github.com/hvphan1993/Personal-Portfolio.git"
+    },
+    {
+        name: "Kissmet",
+        image: kissmet,
+        skills: "MERN, HTML, CSS",
+        link: "https://github.com/ckavanattu/KissMet-.git"
     }
    
 ]

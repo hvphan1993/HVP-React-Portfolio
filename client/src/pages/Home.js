@@ -16,15 +16,19 @@ function Home() {
           alt="profile1"
         />
         <div className="prompt">
-          
           <p>
-            
             A PE teacher turned software developer who enjoys the opportunity to
             grow.
           </p>
-          <FaLinkedin />
-          <FaEnvelope />
-          <FaGithub />
+          <a href="https://www.linkedin.com/in/hien-phan-profile/" target="_">
+            <FaLinkedin />
+          </a>
+          <a href="mailto:hvphan1993@gmail.com" target="_">
+            <FaEnvelope />
+          </a>
+          <a href="https://github.com/hvphan1993" target="_">
+            <FaGithub />
+          </a>
         </div>
       </div>
       <div className="skills">
