@@ -4,7 +4,7 @@ import whatsMyJam from "../assets/whatsmyjam.png";
 import noteTaker from "../assets/note-taker.png";
 import wethaWizard from "../assets/wethaWizard.png";
 import personalPortfolio from "../assets/personalPortfolio.png";
-import kissmet from "../assets/Kissmet.png";
+import kissmet from "../assets/kissmetlogin.png";
 
 export const ProjectList = [
     {
