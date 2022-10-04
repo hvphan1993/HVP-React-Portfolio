@@ -6,7 +6,7 @@ import {
 import "react-vertical-timeline-component/style.min.css";
 import { FaSchool, FaBriefcase, FaUserGraduate, FaEllipsisH } from "react-icons/fa";
 import "../styles/Experience.css";
-import HienPhanResume from "../assets/HienPhanResume.pdf";
+import HienPhanResume from "../assets/HPResume.pdf";
 
 function Experience() {
   return (
@@ -72,9 +72,9 @@ function Experience() {
             <p>Country Lane/Castlemont Elementary, San Jose/Campbell, CA 2019-2020</p>
             <p>Jose Antonio Vargas Elementary, Mountain View, CA 2020-Present</p>
             <FaEllipsisH /> <FaEllipsisH /> <FaEllipsisH /> <FaEllipsisH /> <FaEllipsisH /> <FaEllipsisH /> <FaEllipsisH />
-            <p>Teach students Kindergarten through 5th grade using TGFU method </p>
-            <p>Utilize lesson plans designed to promote student learning and activity under the National and California Standards </p>
-            <p>Collaborate with peer teachers to improve and design daily lessons</p>
+            <p>Teach over 500 students Kindergarten through 5th grade a year using TGFU method </p>
+            <p>Utilize 64 lesson plans for 8 units designed to promote student learning and activity under the National and California Standards </p>
+            <p>Collaborate with over 20 peer teachers to improve and design daily lessons and manage student behavior</p>
         
         </VerticalTimelineElement>
 
