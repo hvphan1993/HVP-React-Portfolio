@@ -26,6 +26,16 @@
   }
   
   .project svg {
-    font-size: 60px;
+    font-size: 50px;
+    color: #FF751F;
+  }
+
+  .access {
+    font-size: 40px;
+    
+    color: #4464AD;
+  }
+
+  .access p {
     color: #FF751F;
   }

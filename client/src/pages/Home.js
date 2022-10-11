@@ -17,8 +17,8 @@ function Home() {
         />
         <div className="prompt">
           <p>
-            A PE teacher turned software developer who enjoys the opportunity to
-            grow. Connect with me at hvphan1993@gmail.com!
+            Graduate of the UC Berkeley Coding Boot Camp Certificate Program. Lifelong learner who enjoys the opportunity to
+            grow. Experienced with leading large groups and collaborating with colleagues to meet goals. Connect at hvphan1993@gmail.com!
           </p>
           {/* <a href="https://www.linkedin.com/in/hien-phan-profile/" target="_">
             <FaLinkedin />

@@ -17,6 +17,12 @@ function ProjectDisplay() {
             </p>
             <a href={project.link} target="_" >
                 <FaGithub  />
+                
+            </a>
+            <a className="access" href={project.app} target="_" >
+                <p>
+                    Access App Here!
+                </p>
             </a>
             
         </div>
