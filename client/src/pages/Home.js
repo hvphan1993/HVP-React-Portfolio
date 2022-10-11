@@ -18,9 +18,9 @@ function Home() {
         <div className="prompt">
           <p>
             A PE teacher turned software developer who enjoys the opportunity to
-            grow.
+            grow. Connect with me at hvphan1993@gmail.com!
           </p>
-          <a href="https://www.linkedin.com/in/hien-phan-profile/" target="_">
+          {/* <a href="https://www.linkedin.com/in/hien-phan-profile/" target="_">
             <FaLinkedin />
           </a>
           <a href="mailto:hvphan1993@gmail.com" target="_">
@@ -28,7 +28,8 @@ function Home() {
           </a>
           <a href="https://github.com/hvphan1993" target="_">
             <FaGithub />
-          </a>
+          </a> */}
+          
         </div>
       </div>
       <div className="skills">
