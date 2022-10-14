@@ -19,6 +19,9 @@ function ProjectDisplay() {
                 <FaGithub  />
                 
             </a>
+            <div className="summary">
+                <b>Summary:</b> {project.summary} 
+            </div>
             <a className="access" href={project.app} target="_" >
                 <p>
                     Access App Here!

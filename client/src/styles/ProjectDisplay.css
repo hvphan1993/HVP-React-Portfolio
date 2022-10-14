@@ -39,3 +39,9 @@
   .access p {
     color: #FF751F;
   }
+
+  .summary {
+    font-size: 25px;
+    margin: 5px;
+    color: #4464AD;
+  }
