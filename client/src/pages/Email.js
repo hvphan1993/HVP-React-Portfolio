@@ -1,7 +1,8 @@
 import React from "react";
-import { FaEnvelope } from "react-icons/fa";
+// import { FaEnvelope } from "react-icons/fa";
 import "../styles/Email.css";
-import { FaPhone } from "react-icons/fa";
+// import { FaPhone } from "react-icons/fa";
+import { FaLinkedin, FaEnvelope, FaPhone } from "react-icons/fa";
 
 function Email() {
   return (
@@ -25,6 +26,15 @@ function Email() {
           </div>
         </a>
       </div>
+
+      <div className="text">
+          Check out my LinkedIn Profile
+        </div>
+          <a href="https://www.linkedin.com/in/hien-phan-profile/" target="_">
+          <div className="linkedicon">
+          <FaLinkedin />
+          </div>
+        </a>
     </div>
   );
 }
