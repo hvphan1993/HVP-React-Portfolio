@@ -85,9 +85,11 @@ function Experience() {
           icon={<FaUserGraduate />}
           >
             <h3 className="vertical-timeline-element-title">
-            UC Berkeley Virtual Software Engineering Boot Camp, CA
+            UC Berkeley Virtual Software Engineering Boot Camp Certificate Program, CA
             </h3>
             <p>Completed 6-month bootcamp</p>
+            <p>Earned certificate</p>
+            <p>Completed projects solo and through collaboration with small groups</p>
             <p>Learned full stack development skills</p>
         
         </VerticalTimelineElement>
