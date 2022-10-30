@@ -5,6 +5,7 @@ import noteTaker from "../assets/note-taker.png";
 import wethaWizard from "../assets/wethaWizard.png";
 import personalPortfolio from "../assets/personalPortfolio.png";
 import kissmet from "../assets/kissmetlogin.png";
+import Notary from "../assets/Notary Home.png";
 
 export const ProjectList = [
     {
@@ -45,15 +46,15 @@ export const ProjectList = [
         skills: "HTML, Bootstrap, Javascript",
         link: "https://github.com/hvphan1993/Wetha-Wizard.git",
         app: "https://hvphan1993.github.io/Wetha-Wizard/",
-        summary: "Check the weather wherever you would like and always be prepared!"
+        summary: "This weather app uses Bootstrap, JavaScript, and OpenWeatherAPI to create a 5-day forecast of the city searched."
     },
     {
-        name: "HTML+CSS Personal Portfolio",
-        image: personalPortfolio,
-        skills: "HTML, CSS",
-        link: "https://github.com/hvphan1993/Personal-Portfolio.git",
-        app: "https://hvphan1993.github.io/Personal-Portfolio/",
-        summary: "Check out an early project utilizing the basics of HTML and CSS."
+        name: "Notary",
+        image: Notary,
+        skills: "Bootstrap, JavaScript",
+        link: "https://hvphan1993.github.io/Notary/#",
+        app: "App work in progress",
+        summary: "This project uses JavaScript and Bootstrap to explore the users text files and generate data regarding most and least used words, number of a searched word, and total word count. The project is currently a work in progress. Start the server, drag text files into the Book folder, and start exploring!"
     }
    
 ]
