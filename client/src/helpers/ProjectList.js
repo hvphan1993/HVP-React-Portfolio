@@ -5,7 +5,7 @@ import noteTaker from "../assets/note-taker.png";
 import wethaWizard from "../assets/wethaWizard.png";
 import personalPortfolio from "../assets/personalPortfolio.png";
 import kissmet from "../assets/kissmetlogin.png";
-import Notary from "../assets/Notary Home.png";
+import notary from "../assets/notaryHome.png";
 
 export const ProjectList = [
     {
@@ -19,7 +19,7 @@ export const ProjectList = [
     {
         name:"Balling On A Budget",
         image:budgetTracker,
-        skills: "Node, Express, Javascript, Service Workers, ",
+        skills: "Node, Express, JavaScript, Service Workers, ",
         link: "https://github.com/hvphan1993/balling-on-a-budget.git",
         app: "https://warm-earth-62853.herokuapp.com/",
         summary: "Keep track of your income and expenditures with this helpful app!"
@@ -27,15 +27,15 @@ export const ProjectList = [
     {
         name: "What's My Jam",
         image: whatsMyJam,
-        skills: "CSS, HTML, Javascript",
+        skills: "CSS, HTML, JavaScript",
         link: "https://github.com/CannibalClarence/Whats-My-Jam.git",
         app: "https://cannibalclarence.github.io/Whats-My-Jam/",
-        summary: "Tired of listening to the same old songs? Find your newest jam with our radio finding app."
+        summary: "Tired of listening to the same old songs? Find your newest jam with our radio finding app. This app connects stylish CSS with a radio station API to find different radio stations per genre."
     },
     {
         name: "Note Taker",
         image: noteTaker,
-        skills: "Javascript, Express, Heroku",
+        skills: "JavaScript, Express, Heroku",
         link: "https://github.com/hvphan1993/Note-Breaker.git",
         app: "https://infinite-springs-49706.herokuapp.com/",
         summary: "Keep track of your thoughts and stay organized with the Note Taker."
@@ -43,18 +43,18 @@ export const ProjectList = [
     {
         name: "Wetha Wizard",
         image: wethaWizard,
-        skills: "HTML, Bootstrap, Javascript",
+        skills: "HTML, Bootstrap, JavaScript",
         link: "https://github.com/hvphan1993/Wetha-Wizard.git",
         app: "https://hvphan1993.github.io/Wetha-Wizard/",
         summary: "This weather app uses Bootstrap, JavaScript, and OpenWeatherAPI to create a 5-day forecast of the city searched."
     },
     {
         name: "Notary",
-        image: Notary,
+        image: notary,
         skills: "Bootstrap, JavaScript",
-        link: "https://hvphan1993.github.io/Notary/#",
-        app: "App work in progress",
-        summary: "This project uses JavaScript and Bootstrap to explore the users text files and generate data regarding most and least used words, number of a searched word, and total word count. The project is currently a work in progress. Start the server, drag text files into the Book folder, and start exploring!"
+        link: "https://github.com/hvphan1993/Notary.git",
+        app: "https://github.com/hvphan1993/Notary.git",
+        summary: "This project uses JavaScript and Bootstrap to explore the users text files and track word counts. The project is currently a work in progress. Start the server, drag text files into the Book folder, and start exploring!"
     }
    
 ]
