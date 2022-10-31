@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/HVP-React-Portfolio/static/css/main.ba9b4e37.css",
-    "main.js": "/HVP-React-Portfolio/static/js/main.11b6d5a7.js",
+    "main.js": "/HVP-React-Portfolio/static/js/main.775960ba.js",
     "static/media/whatsmyjam.png": "/HVP-React-Portfolio/static/media/whatsmyjam.512b61037831feffa32b.png",
     "static/media/Profile1.JPG": "/HVP-React-Portfolio/static/media/Profile1.7e8a0ad92b23ee8e0f70.JPG",
     "static/media/kissmetlogin.png": "/HVP-React-Portfolio/static/media/kissmetlogin.ae0dfe7a04949857f683.png",
     "static/media/personalPortfolio.png": "/HVP-React-Portfolio/static/media/personalPortfolio.5ee3791369327514d1d2.png",
-    "static/media/Notary Home.png": "/HVP-React-Portfolio/static/media/Notary Home.0506e9a13cd2e44ae2e2.png",
+    "static/media/notaryHome.png": "/HVP-React-Portfolio/static/media/notaryHome.0506e9a13cd2e44ae2e2.png",
     "static/media/crystalJumper.png": "/HVP-React-Portfolio/static/media/crystalJumper.d5c001ec552da7973438.png",
     "static/media/wethaWizard.png": "/HVP-React-Portfolio/static/media/wethaWizard.d15e2448707a328a92c7.png",
     "static/media/HPResume.pdf": "/HVP-React-Portfolio/static/media/HPResume.64c0dcbc8f023016d2bc.pdf",
@@ -14,10 +14,10 @@
     "static/media/note-taker.png": "/HVP-React-Portfolio/static/media/note-taker.3ef2e3f2ebb68612f26e.png",
     "index.html": "/HVP-React-Portfolio/index.html",
     "main.ba9b4e37.css.map": "/HVP-React-Portfolio/static/css/main.ba9b4e37.css.map",
-    "main.11b6d5a7.js.map": "/HVP-React-Portfolio/static/js/main.11b6d5a7.js.map"
+    "main.775960ba.js.map": "/HVP-React-Portfolio/static/js/main.775960ba.js.map"
   },
   "entrypoints": [
     "static/css/main.ba9b4e37.css",
-    "static/js/main.11b6d5a7.js"
+    "static/js/main.775960ba.js"
   ]
 }
