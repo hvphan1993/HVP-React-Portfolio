@@ -18,7 +18,7 @@ SO THAT I can assess whether they're a good candidate for an open position
 
 ## Screenshots
 
-![profile screenshot](client\src\assets\reactPortfolio.png)
+![profile screenshot](client/src/assets/reactPortfolio.png)
 
 ![footer](client/src/assets/reactPortfoliofooter.png)
 
