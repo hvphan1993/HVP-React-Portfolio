@@ -16,9 +16,11 @@ SO THAT I can assess whether they're a good candidate for an open position
 - Dynamic Vertical Timeline
 - Call and/or Email Using Icons
 
-## Screenshot
+## Screenshots
 
-![profile screenshot](./src/assets/reactPortfolio.png)
+![profile screenshot](client\src\assets\reactPortfolio.png)
+
+![footer](client/src/assets/reactPortfoliofooter.png)
 
 ## Links
 
