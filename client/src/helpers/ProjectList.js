@@ -6,11 +6,11 @@ import wethaWizard from "../assets/wethaWizard.png";
 import personalPortfolio from "../assets/personalPortfolio.png";
 import kissmet from "../assets/kissmetlogin.png";
 import notary from "../assets/notaryHome.png";
-
+import gameover from "../assets/crystaljumpergameover.png";
 export const ProjectList = [
     {
         name: "Crystal Jumper",
-        image: crystalJumper,
+        image: crystalJumper, gameover,
         skills: "Node, Phaser 3, Express, Handlebars, bcrypt, MySQL, Sequelize, dotenv",
         link: "https://github.com/ckavanattu/PROJECT-2-GROUP-3",
         app: "https://crystaljump.herokuapp.com/",
