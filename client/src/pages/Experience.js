@@ -64,6 +64,12 @@ function Experience() {
           <FaEllipsisH /> <FaEllipsisH /> <FaEllipsisH /> <FaEllipsisH />{" "}
           <FaEllipsisH /> <FaEllipsisH /> <FaEllipsisH />
           <p>
+            Presented remote-learning strategies and modifications for teachers and students while shelter-in-place restrictions were in effect 
+          </p>
+          <p>
+            Led confidence building session with peer teachers and administrators as a first year instructor 
+          </p>
+          <p>
             Teach over 500 students Kindergarten through 5th grade a year using
             TGFU method{" "}
           </p>
