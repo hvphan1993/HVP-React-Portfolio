@@ -10,11 +10,11 @@ import gameover from "../assets/crystaljumpergameover.png";
 export const ProjectList = [
     {
         name: "Crystal Jumper",
-        image: crystalJumper, gameover,
+        image: crystalJumper,
         skills: "Node, Phaser 3, Express, Handlebars, bcrypt, MySQL, Sequelize, dotenv",
         link: "https://github.com/ckavanattu/PROJECT-2-GROUP-3",
         app: "https://crystaljump.herokuapp.com/",
-        summary: "Test your reflexes with an exhilarating platformer! How long can you last?"
+        summary: "Test your reflexes with an exhilarating platformer! This game was created using Phaser 3 and features randomized obstacles and multiple scene transitions."
     },
     {
         name:"Balling On A Budget",
@@ -22,7 +22,7 @@ export const ProjectList = [
         skills: "Node, Express, JavaScript, Service Workers, ",
         link: "https://github.com/hvphan1993/balling-on-a-budget.git",
         app: "https://warm-earth-62853.herokuapp.com/",
-        summary: "Keep track of your income and expenditures with this helpful app!"
+        summary: "Keep track of your income and expenditures with this helpful app! This tool was created using JavaScript and service workers to allow users to use it on their local machines."
     },
     {
         name: "What's My Jam",
@@ -38,7 +38,7 @@ export const ProjectList = [
         skills: "JavaScript, Express, Heroku",
         link: "https://github.com/hvphan1993/Note-Breaker.git",
         app: "https://infinite-springs-49706.herokuapp.com/",
-        summary: "Keep track of your thoughts and stay organized with the Note Taker."
+        summary: "Keep track of your thoughts and stay organized with the Note Taker. Note Taker was created with JavaScript and Express and provides an easy method of note management."
     },
     {
         name: "Wetha Wizard",
