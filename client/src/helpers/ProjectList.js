@@ -7,6 +7,7 @@ import personalPortfolio from "../assets/personalPortfolio.png";
 import kissmet from "../assets/kissmetlogin.png";
 import notary from "../assets/notaryHome.png";
 import gameover from "../assets/crystaljumpergameover.png";
+import battleup from '../assets/battleup.png';
 export const ProjectList = [
     {
         name: "Crystal Jumper",
@@ -55,6 +56,14 @@ export const ProjectList = [
         link: "https://github.com/hvphan1993/Notary.git",
         app: "https://github.com/hvphan1993/Notary.git",
         summary: "This project uses JavaScript and Bootstrap to explore the users text files and track word counts. The project is currently a work in progress. Start the server, drag text files into the Book folder, and start exploring!"
+    },
+    {
+        name: "Battle Up",
+        image: battleup,
+        skills: "Canvas HTML, JavaScript",
+        link: "https://github.com/hvphan1993/Battle-Up.git",
+        app: "https://hvphan1993.github.io/Battle-Up/",
+        summary: "This project uses Canvas HTML and JavaScript to generate a 2D fighter complete with health bars, countdown timer, and action animations."
     }
    
 ]
