@@ -8,6 +8,7 @@ import kissmet from "../assets/kissmetlogin.png";
 import notary from "../assets/notaryHome.png";
 import gameover from "../assets/crystaljumpergameover.png";
 import battleup from '../assets/battleup.png';
+import splashattack from '../assets/splashattack.png';
 export const ProjectList = [
     {
         name: "Crystal Jumper",
@@ -64,6 +65,14 @@ export const ProjectList = [
         link: "https://github.com/hvphan1993/Battle-Up.git",
         app: "https://hvphan1993.github.io/Battle-Up/",
         summary: "This project uses Canvas HTML and JavaScript to generate a 2D fighter complete with health bars, countdown timer, and action animations."
+    },
+    {
+        name: "Splash Attack",
+        image: splashattack,
+        skills: "Canvas HTML, JavaScript",
+        link: "https://github.com/hvphan1993/splashattack.git",
+        app: "https://hvphan1993.github.io/splashattack/",
+        summary: "This project uses Canvas HTML and JavaScript to generate a bubble shooter with random enemy positioning, bullet effects, and a score feature."
     }
    
 ]
